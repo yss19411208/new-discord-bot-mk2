@@ -6,7 +6,7 @@ attrs==23.2.1.dev0
 discord.py==2.0
 fastapi==0.111.0
 frozenlist==1.4.1
-h11==0.14.0
+h11==0.16.0
 idna==3.6
 multidict==6.0.5
 pydantic==2.7.1
